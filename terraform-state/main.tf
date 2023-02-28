@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "aws" {
-  profile = "juanvelascoaws"
+  profile = "default"
   region  = "eu-west-3"
 }
 
